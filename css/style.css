@@ -1023,6 +1023,7 @@ a:focus {
   position: relative;
   background-color: #020230;
   text-align: center;
+  font-size: 25px;
 }
 
 .footer_section p {
